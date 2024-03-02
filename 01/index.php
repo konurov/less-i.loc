@@ -112,12 +112,6 @@ $var = '';
 $var++;
 unset($var);
 var_dump($var);
-
-
-
-
-
-
 ?>
 
 </body>
