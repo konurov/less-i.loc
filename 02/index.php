@@ -61,6 +61,14 @@ error_reporting(-1);
             default:
                 echo 'Число не равно ни 1, ни 2';
         }
+        /*if( 5 != 4 ){
+            echo 'OK';
+        }*/
+        /*if( 5 != 4 ){
+            echo 'OK';
+            echo '<p>2</p>';
+        }*/
+
 
          $x = 5;
 
